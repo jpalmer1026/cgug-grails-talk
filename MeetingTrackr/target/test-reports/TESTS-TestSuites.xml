@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Jeff-Palmers-MacBook-Pro.local" id="0" name="MeetingTests" package="com.follett" tests="1" time="0.573" timestamp="2010-12-15T00:52:30">
+      <properties />
+
+      <testcase classname="com.follett.MeetingTests" name="testConstraints" time="0.55" />
+
+      <system-out><![CDATA[--Output from testConstraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testConstraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Jeff-Palmers-MacBook-Pro.local" id="1" name="SpeakerTests" package="com.follett" tests="1" time="0.106" timestamp="2010-12-15T00:52:31">
+      <properties />
+
+      <testcase classname="com.follett.SpeakerTests" name="testConstraints" time="0.098" />
+
+      <system-out><![CDATA[--Output from testConstraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testConstraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Jeff-Palmers-MacBook-Pro.local" id="2" name="SponsorTests" package="com.follett" tests="1" time="0.014" timestamp="2010-12-15T00:52:31">
+      <properties />
+
+      <testcase classname="com.follett.SponsorTests" name="testConstraints" time="0.012" />
+
+      <system-out><![CDATA[--Output from testConstraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testConstraints--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

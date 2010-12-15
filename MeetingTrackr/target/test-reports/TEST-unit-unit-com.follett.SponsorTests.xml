@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Jeff-Palmers-MacBook-Pro.local" name="com.follett.SponsorTests" tests="1" time="0.014" timestamp="2010-12-15T00:52:31">
+  <properties />
+  <testcase classname="com.follett.SponsorTests" name="testConstraints" time="0.012" />
+  <system-out><![CDATA[--Output from testConstraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from testConstraints--
+]]></system-err>
+</testsuite>
